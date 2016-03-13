@@ -1,6 +1,6 @@
 {
-  "name": "google-play-music-desktop-player",
-  "productName": "Google Play Music Desktop Player",
+  "name": "Mulberry Player",
+  "productName": "Mulbery Desktop Player",
   "version": "3.0.1",
   "description": "An electron wrapper for Google Play Music",
   "main": "build/index.js",
